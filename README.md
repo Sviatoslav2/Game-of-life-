@@ -21,3 +21,5 @@ computeNextGen() --> логіка кожного наступного  ходу(
 Реалізувати зміну поля гравцем
 Зміну поля реалізовано
 
+document.getElementById("columnInput").addEventListener('input', function ()...
+document.getElementById("rowInput").addEventListener('input', function ()
