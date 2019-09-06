@@ -1,4 +1,4 @@
-# Game-of-life-
+# Game-of-life-      https://sviatoslav2.github.io/
 Реалізація Game-of-life на чистому js та HTML
 Main.js - головний код
 index HTML
